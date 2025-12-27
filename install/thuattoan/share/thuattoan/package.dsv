@@ -1,0 +1,9 @@
+source;share/thuattoan/hook/pythonpath.ps1
+source;share/thuattoan/hook/pythonpath.dsv
+source;share/thuattoan/hook/pythonpath.sh
+source;share/thuattoan/hook/ament_prefix_path.ps1
+source;share/thuattoan/hook/ament_prefix_path.dsv
+source;share/thuattoan/hook/ament_prefix_path.sh
+source;../../build/thuattoan/share/thuattoan/hook/pythonpath_develop.ps1
+source;../../build/thuattoan/share/thuattoan/hook/pythonpath_develop.dsv
+source;../../build/thuattoan/share/thuattoan/hook/pythonpath_develop.sh

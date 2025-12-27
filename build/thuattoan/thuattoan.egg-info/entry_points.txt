@@ -1,0 +1,5 @@
+[console_scripts]
+hinhtron = thuattoan.hinhtron:main
+hit = thuattoan.hit:main
+vitrivat = thuattoan.vitrivat:main
+

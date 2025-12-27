@@ -1,0 +1,24 @@
+[0.827s] Invoking command in '/home/quandz/quantest_ws/build/thuattoan': PYTHONPATH=/home/quandz/quantest_ws/build/thuattoan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/quandz/quantest_ws/install/thuattoan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/quandz/quantest_ws/build/thuattoan/build --no-deps symlink_data
+[1.061s] running develop
+[1.227s] running egg_info
+[1.227s] creating thuattoan.egg-info
+[1.228s] writing thuattoan.egg-info/PKG-INFO
+[1.228s] writing dependency_links to thuattoan.egg-info/dependency_links.txt
+[1.229s] writing entry points to thuattoan.egg-info/entry_points.txt
+[1.229s] writing requirements to thuattoan.egg-info/requires.txt
+[1.229s] writing top-level names to thuattoan.egg-info/top_level.txt
+[1.229s] writing manifest file 'thuattoan.egg-info/SOURCES.txt'
+[1.230s] reading manifest file 'thuattoan.egg-info/SOURCES.txt'
+[1.231s] writing manifest file 'thuattoan.egg-info/SOURCES.txt'
+[1.232s] running build_ext
+[1.232s] Creating /home/quandz/quantest_ws/install/thuattoan/lib/python3.10/site-packages/thuattoan.egg-link (link to .)
+[1.233s] Installing hinhtron script to /home/quandz/quantest_ws/install/thuattoan/lib/thuattoan
+[1.234s] 
+[1.235s] Installed /home/quandz/quantest_ws/build/thuattoan
+[1.235s] running symlink_data
+[1.235s] creating /home/quandz/quantest_ws/install/thuattoan/share/ament_index
+[1.235s] creating /home/quandz/quantest_ws/install/thuattoan/share/ament_index/resource_index
+[1.235s] creating /home/quandz/quantest_ws/install/thuattoan/share/ament_index/resource_index/packages
+[1.236s] symbolically linking /home/quandz/quantest_ws/build/thuattoan/resource/thuattoan -> /home/quandz/quantest_ws/install/thuattoan/share/ament_index/resource_index/packages
+[1.236s] symbolically linking /home/quandz/quantest_ws/build/thuattoan/package.xml -> /home/quandz/quantest_ws/install/thuattoan/share/thuattoan
+[1.263s] Invoked command in '/home/quandz/quantest_ws/build/thuattoan' returned '0': PYTHONPATH=/home/quandz/quantest_ws/build/thuattoan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/quandz/quantest_ws/install/thuattoan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/quandz/quantest_ws/build/thuattoan/build --no-deps symlink_data
