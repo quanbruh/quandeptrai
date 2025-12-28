@@ -1,0 +1,21 @@
+[0.746s] Invoking command in '/home/quanzz/quandeptrai/build/thuattoan': PYTHONPATH=/home/quanzz/quandeptrai/build/thuattoan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/quanzz/quandeptrai/build/thuattoan/build --no-deps symlink_data --force
+[0.970s] running develop
+[1.105s] running egg_info
+[1.105s] writing thuattoan.egg-info/PKG-INFO
+[1.106s] writing dependency_links to thuattoan.egg-info/dependency_links.txt
+[1.106s] writing entry points to thuattoan.egg-info/entry_points.txt
+[1.106s] writing requirements to thuattoan.egg-info/requires.txt
+[1.106s] writing top-level names to thuattoan.egg-info/top_level.txt
+[1.108s] reading manifest file 'thuattoan.egg-info/SOURCES.txt'
+[1.109s] writing manifest file 'thuattoan.egg-info/SOURCES.txt'
+[1.110s] running build_ext
+[1.110s] Creating /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan.egg-link (link to .)
+[1.111s] Installing hinhtron script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+[1.111s] Installing hit script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+[1.112s] Installing vitrivat script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+[1.112s] 
+[1.112s] Installed /home/quanzz/quandeptrai/build/thuattoan
+[1.112s] running symlink_data
+[1.112s] symbolically linking /home/quanzz/quandeptrai/build/thuattoan/resource/thuattoan -> /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index/packages
+[1.112s] symbolically linking /home/quanzz/quandeptrai/build/thuattoan/package.xml -> /home/quanzz/quandeptrai/install/thuattoan/share/thuattoan
+[1.139s] Invoked command in '/home/quanzz/quandeptrai/build/thuattoan' returned '0': PYTHONPATH=/home/quanzz/quandeptrai/build/thuattoan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/quanzz/quandeptrai/build/thuattoan/build --no-deps symlink_data --force

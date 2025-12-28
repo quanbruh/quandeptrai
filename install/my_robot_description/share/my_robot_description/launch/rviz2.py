@@ -1,1 +1,1 @@
-/home/quandz/quantest_ws/src/old_gazebo_code/my_robot_description/launch/rviz2.py
+/home/quanzz/quandeptrai/src/old_gazebo_code/my_robot_description/launch/rviz2.py

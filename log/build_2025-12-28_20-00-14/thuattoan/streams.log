@@ -1,0 +1,45 @@
+[0.747s] Invoking command in '/home/quanzz/quandeptrai/src/thuattoan': PYTHONPATH=/home/quanzz/quandeptrai/build/thuattoan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/thuattoan build --build-base /home/quanzz/quandeptrai/build/thuattoan/build install --record /home/quanzz/quandeptrai/build/thuattoan/install.log --single-version-externally-managed install_data
+[0.952s] running egg_info
+[0.953s] creating ../../build/thuattoan/thuattoan.egg-info
+[0.953s] writing ../../build/thuattoan/thuattoan.egg-info/PKG-INFO
+[0.953s] writing dependency_links to ../../build/thuattoan/thuattoan.egg-info/dependency_links.txt
+[0.954s] writing entry points to ../../build/thuattoan/thuattoan.egg-info/entry_points.txt
+[0.954s] writing requirements to ../../build/thuattoan/thuattoan.egg-info/requires.txt
+[0.954s] writing top-level names to ../../build/thuattoan/thuattoan.egg-info/top_level.txt
+[0.954s] writing manifest file '../../build/thuattoan/thuattoan.egg-info/SOURCES.txt'
+[0.956s] reading manifest file '../../build/thuattoan/thuattoan.egg-info/SOURCES.txt'
+[0.956s] writing manifest file '../../build/thuattoan/thuattoan.egg-info/SOURCES.txt'
+[0.956s] running build
+[0.957s] running build_py
+[0.957s] creating /home/quanzz/quandeptrai/build/thuattoan/build
+[0.957s] creating /home/quanzz/quandeptrai/build/thuattoan/build/lib
+[0.957s] creating /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+[0.958s] copying thuattoan/__init__.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+[0.958s] copying thuattoan/hit.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+[0.958s] copying thuattoan/hinhtron.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+[0.958s] copying thuattoan/vitrivat.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+[0.959s] running install
+[0.959s] running install_lib
+[0.960s] creating /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+[0.960s] copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/__init__.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+[0.961s] copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/hit.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+[0.961s] copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/hinhtron.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+[0.961s] copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/vitrivat.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+[0.962s] byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/__init__.py to __init__.cpython-310.pyc
+[0.962s] byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/hit.py to hit.cpython-310.pyc
+[0.963s] byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/hinhtron.py to hinhtron.cpython-310.pyc
+[0.963s] byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/vitrivat.py to vitrivat.cpython-310.pyc
+[0.963s] running install_data
+[0.964s] creating /home/quanzz/quandeptrai/install/thuattoan/share/ament_index
+[0.964s] creating /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index
+[0.964s] creating /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index/packages
+[0.965s] copying resource/thuattoan -> /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index/packages
+[0.965s] copying package.xml -> /home/quanzz/quandeptrai/install/thuattoan/share/thuattoan
+[0.965s] running install_egg_info
+[0.968s] Copying ../../build/thuattoan/thuattoan.egg-info to /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan-0.0.0-py3.10.egg-info
+[0.969s] running install_scripts
+[0.986s] Installing hinhtron script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+[0.986s] Installing hit script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+[0.986s] Installing vitrivat script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+[0.987s] writing list of installed files to '/home/quanzz/quandeptrai/build/thuattoan/install.log'
+[1.010s] Invoked command in '/home/quanzz/quandeptrai/src/thuattoan' returned '0': PYTHONPATH=/home/quanzz/quandeptrai/build/thuattoan/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/thuattoan build --build-base /home/quanzz/quandeptrai/build/thuattoan/build install --record /home/quanzz/quandeptrai/build/thuattoan/install.log --single-version-externally-managed install_data

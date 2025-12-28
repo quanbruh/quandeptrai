@@ -1,0 +1,19 @@
+running develop
+running egg_info
+writing thuattoan.egg-info/PKG-INFO
+writing dependency_links to thuattoan.egg-info/dependency_links.txt
+writing entry points to thuattoan.egg-info/entry_points.txt
+writing requirements to thuattoan.egg-info/requires.txt
+writing top-level names to thuattoan.egg-info/top_level.txt
+reading manifest file 'thuattoan.egg-info/SOURCES.txt'
+writing manifest file 'thuattoan.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan.egg-link (link to .)
+Installing hinhtron script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+Installing hit script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+Installing vitrivat script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+
+Installed /home/quanzz/quandeptrai/build/thuattoan
+running symlink_data
+symbolically linking /home/quanzz/quandeptrai/build/thuattoan/resource/thuattoan -> /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index/packages
+symbolically linking /home/quanzz/quandeptrai/build/thuattoan/package.xml -> /home/quanzz/quandeptrai/install/thuattoan/share/thuattoan

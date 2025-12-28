@@ -1,3 +1,3 @@
 # generated from colcon_core/shell/template/hook_prepend_value.sh.em
 
-_colcon_prepend_unique_value PYTHONPATH "/home/quandz/quantest_ws/build/thuattoan"
+_colcon_prepend_unique_value PYTHONPATH "/home/quanzz/quandeptrai/build/thuattoan"

@@ -1,1 +1,1 @@
-/home/quandz/quantest_ws/build/my_robot_bringup/ament_cmake_environment_hooks/local_setup.sh
+/home/quanzz/quandeptrai/build/my_robot_bringup/ament_cmake_environment_hooks/local_setup.sh

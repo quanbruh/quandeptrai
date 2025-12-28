@@ -1,0 +1,43 @@
+running egg_info
+creating ../../build/thuattoan/thuattoan.egg-info
+writing ../../build/thuattoan/thuattoan.egg-info/PKG-INFO
+writing dependency_links to ../../build/thuattoan/thuattoan.egg-info/dependency_links.txt
+writing entry points to ../../build/thuattoan/thuattoan.egg-info/entry_points.txt
+writing requirements to ../../build/thuattoan/thuattoan.egg-info/requires.txt
+writing top-level names to ../../build/thuattoan/thuattoan.egg-info/top_level.txt
+writing manifest file '../../build/thuattoan/thuattoan.egg-info/SOURCES.txt'
+reading manifest file '../../build/thuattoan/thuattoan.egg-info/SOURCES.txt'
+writing manifest file '../../build/thuattoan/thuattoan.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/quanzz/quandeptrai/build/thuattoan/build
+creating /home/quanzz/quandeptrai/build/thuattoan/build/lib
+creating /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+copying thuattoan/__init__.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+copying thuattoan/hit.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+copying thuattoan/hinhtron.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+copying thuattoan/vitrivat.py -> /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan
+running install
+running install_lib
+creating /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/__init__.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/hit.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/hinhtron.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+copying /home/quanzz/quandeptrai/build/thuattoan/build/lib/thuattoan/vitrivat.py -> /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan
+byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/hit.py to hit.cpython-310.pyc
+byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/hinhtron.py to hinhtron.cpython-310.pyc
+byte-compiling /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan/vitrivat.py to vitrivat.cpython-310.pyc
+running install_data
+creating /home/quanzz/quandeptrai/install/thuattoan/share/ament_index
+creating /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index
+creating /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index/packages
+copying resource/thuattoan -> /home/quanzz/quandeptrai/install/thuattoan/share/ament_index/resource_index/packages
+copying package.xml -> /home/quanzz/quandeptrai/install/thuattoan/share/thuattoan
+running install_egg_info
+Copying ../../build/thuattoan/thuattoan.egg-info to /home/quanzz/quandeptrai/install/thuattoan/lib/python3.10/site-packages/thuattoan-0.0.0-py3.10.egg-info
+running install_scripts
+Installing hinhtron script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+Installing hit script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+Installing vitrivat script to /home/quanzz/quandeptrai/install/thuattoan/lib/thuattoan
+writing list of installed files to '/home/quanzz/quandeptrai/build/thuattoan/install.log'

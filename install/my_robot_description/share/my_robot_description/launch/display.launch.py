@@ -1,1 +1,0 @@
-/home/quandz/quantest_ws/src/old_gazebo_code/my_robot_description/launch/display.launch.py

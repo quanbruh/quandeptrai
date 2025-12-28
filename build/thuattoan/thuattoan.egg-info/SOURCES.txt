@@ -1,6 +1,13 @@
 package.xml
 setup.cfg
 setup.py
+../../build/thuattoan/thuattoan.egg-info/PKG-INFO
+../../build/thuattoan/thuattoan.egg-info/SOURCES.txt
+../../build/thuattoan/thuattoan.egg-info/dependency_links.txt
+../../build/thuattoan/thuattoan.egg-info/entry_points.txt
+../../build/thuattoan/thuattoan.egg-info/requires.txt
+../../build/thuattoan/thuattoan.egg-info/top_level.txt
+../../build/thuattoan/thuattoan.egg-info/zip-safe
 resource/thuattoan
 thuattoan/__init__.py
 thuattoan/hinhtron.py
