@@ -5,7 +5,7 @@ from geometry_msgs.msg import Twist
 
 class CircleDrive(Node):
     def __init__(self):
-        super().__init__('circle_drive')
+        super().__init__("xoaytron")
         self.publisher_ = self.create_publisher(Twist, '/cmd_vel', 10)
         self.timer = self.create_timer(0.05, self.timer_callback)  # 10 Hz
 
